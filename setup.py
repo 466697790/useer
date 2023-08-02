@@ -20,6 +20,8 @@ setup(
     name=name,
     version=version,
     description='A elaborate and developed PySpark libraries and resources.',
+    long_description=open('README.md', encoding='utf-8').read(),
+    long_description_content_type="text/markdown",
     author='liujinzhou',
     author_email='466697790@qq.com',
     url='https://github.com/466697790/useer',
