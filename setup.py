@@ -22,7 +22,7 @@ setup(
     description='A elaborate and developed PySpark libraries and resources.',
     author='liujinzhou',
     author_email='466697790@qq.com',
-    url='https://github.com/deyoulee/pysparklib',
+    url='https://github.com/466697790/useer',
     license=open('LICENSE', encoding='utf-8').read(),
     packages=find_packages(),
     include_package_data=True,
