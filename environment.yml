@@ -1,0 +1,15 @@
+name: useer
+channels:
+  - defaults
+dependencies:
+  - pip=23.1.2
+  - python=3.7.16
+#  - python=3.8.17
+  - setuptools=67.7.2
+  - pip:
+    - py4j==0.10.7
+#    - py4j==0.10.9.5
+    - pyspark==2.4.0
+#    - pyspark==3.3.1
+    - pyspark2pmml==0.5.1
+#prefix: /anaconda3/envs/pysparklib
